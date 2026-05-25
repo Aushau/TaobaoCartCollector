@@ -1,0 +1,20 @@
+# 数据库 / 个人数据
+*.db
+*.db-shm
+*.db-wal
+*.csv
+cart_report.html
+cart_data.json
+cart_snapshot_*.json
+taobao.db*
+
+# Python 脚本（非扩展源码）
+*.py
+*.ps1
+
+# 源码 markdown
+cart_collector_source.md
+
+# 系统
+.DS_Store
+Thumbs.db
